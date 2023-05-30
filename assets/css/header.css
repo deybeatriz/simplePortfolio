@@ -1,0 +1,12 @@
+.header {
+    padding: 40px 20px; /*usa-se o padding para, caso haja alterações no background, por exemplo, o header seja incluso */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-menu {
+    display: flex;
+    flex-wrap: wrap; /* caso a vierport diminua, os links irão ficar um abaixo do outro */
+    gap: 10px;
+}
