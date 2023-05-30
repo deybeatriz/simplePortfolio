@@ -7,6 +7,10 @@
     align-items: center;
 }
 
+.logo {
+    width: 90px;
+}
+
 .header-menu {
     display: flex;
     flex-wrap: wrap; /* caso a vierport diminua, os links irão ficar um abaixo do outro */
