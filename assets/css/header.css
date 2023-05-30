@@ -16,3 +16,11 @@
     flex-wrap: wrap; /* caso a vierport diminua, os links irão ficar um abaixo do outro */
     gap: 10px;
 }
+
+.header-menu a {
+    font-size: 1.25rem;
+    line-height: 1.3;
+    padding: 10px 20px;
+    color: #141414;
+    display: block;
+}
