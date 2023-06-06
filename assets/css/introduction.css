@@ -3,7 +3,13 @@
     padding: 40px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 60px;
     align-items: center;
+}
+
+.introduction h1 {
+    font-size: 4rem;
+    line-height: 1.25;
+    margin-bottom: 30px;
 }
