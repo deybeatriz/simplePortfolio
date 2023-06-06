@@ -20,7 +20,7 @@
     display: block;
     width: 130px;
     height: 130px;
-    background: url(../images/detalhe.svg);
+    background: url(../images/detalhe.svg) no-repeat center;
     position: absolute;
     top: -40px;
     left: -40px;
@@ -48,5 +48,12 @@
 
     .introduction h1 {
         font-size: 2.4rem;
+    }
+
+    .introduction h1::before {
+        width: 70px;
+        height: 8px;
+        top: -10px;
+        left: 0px;
     }
 }
