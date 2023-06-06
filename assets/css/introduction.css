@@ -13,3 +13,7 @@
     line-height: 1.25;
     margin-bottom: 30px;
 }
+
+.introduction img {
+    border-radius: 50%;
+}
