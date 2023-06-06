@@ -30,3 +30,13 @@
 .introduction img {
     border-radius: 50%;
 }
+
+@media (max-width:1000px) {
+    .introduction {
+        gap: 90px;
+    }
+
+    .introduction h1 {
+        font-size: 3rem;
+    }
+}
