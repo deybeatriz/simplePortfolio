@@ -57,3 +57,14 @@
         left: 0px;
     }
 }
+
+@media (max-width:600px) {
+    .introduction {
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+
+    .introduction img {
+        width: 80%;
+    }
+}
