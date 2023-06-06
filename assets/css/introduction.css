@@ -1,7 +1,8 @@
 .introduction {
     max-width: 1200px;
-    padding: 40px 20px;
+    padding: 40px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 2fr 1fr;
+    gap: 60px;
 }
