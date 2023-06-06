@@ -68,3 +68,13 @@
         width: 80%;
     }
 }
+
+@media (max-width:400px) {
+    .introduction {
+        padding: 10px;
+    }
+
+    .introduction h1 {
+        font-size: 2rem;
+    }
+}
