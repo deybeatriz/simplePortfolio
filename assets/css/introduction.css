@@ -22,8 +22,8 @@
     height: 130px;
     background: url(../images/detalhe.svg);
     position: absolute;
-    top: -30px;
-    left: -30px;
+    top: -40px;
+    left: -40px;
     z-index: -1;
 }
 
