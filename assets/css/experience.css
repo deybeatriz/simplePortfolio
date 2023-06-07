@@ -68,3 +68,10 @@
     line-height: 1.4;
     color: #292929;
 }
+
+.company-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-content: start;
+}
