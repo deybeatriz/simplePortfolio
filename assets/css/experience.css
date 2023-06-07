@@ -43,7 +43,10 @@
     display: block;
     width: 4px;
     height: 20px;
-    background: linear-gradient(#962084, #fa1b5b);
+    background: linear-gradient(#791369, #fa1b5b);
+    position: absolute;
+    top: 20px;
+    left: -4px;
 }
 
 .company-year {
