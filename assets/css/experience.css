@@ -22,3 +22,13 @@
 .experience-text strong {
     color: black;
 }
+
+.company {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    background-color: #ee4a7854;
+    margin-bottom: 20px;
+    border-radius: 4px;
+
+}
