@@ -3,8 +3,8 @@
     padding: 40px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 120px;
+    grid-template-columns: 2fr 3fr;
+    gap: 160px;
     align-items: center;
 }
 
