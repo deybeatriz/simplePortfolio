@@ -22,8 +22,8 @@ img {
     display: block;
 }
 
-.subtitulo {
-    font-size: 8rem;
+.subtitle {
+    font-size: 7rem;
     line-height: 1;
     text-transform: uppercase;
     word-break: break-all;
