@@ -1,11 +1,16 @@
 .experience {
     max-width: 1200px;
-    padding: 40px;
+    padding: 20px 40px;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 100px;
+    
 }
 
 .experience .subtitle {
     color: #EA527C;
+    padding: 0px 80px;
 }
 
 .experience-text {
@@ -22,12 +27,6 @@
     color: black;
 }
 
-.experience-grid {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 100px;
-}
-
 .company {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -36,7 +35,7 @@
     margin-bottom: 20px;
     border-radius: 4px;
     position: relative;
-    gap: 10px 20px;
+    gap: 15px 30px;
 }
 
 .company::before {
@@ -68,6 +67,7 @@
     font-size: 1rem;
     line-height: 1.4;
     color: #292929;
+    text-align: justify;
 }
 
 .company-skills {
@@ -83,4 +83,16 @@
     border-radius: 4px;
     background-color: azure;
     padding: 4px 10px;
+}
+
+@media (max-width:800px) {
+
+}
+
+@media (max-width:600px) {
+
+}
+
+@media (max-width:400px) {
+
 }

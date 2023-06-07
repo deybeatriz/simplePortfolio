@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
 body {
     font-family: 'Fira Sans', Arial, sans-serif;
     margin: 0;
@@ -23,9 +25,9 @@ img {
 }
 
 .subtitle {
-    font-size: 7rem;
-    line-height: 1.1;
-    text-transform: uppercase;
-    word-break: break-all;
-    max-width: 5ch;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 3.5rem;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    letter-spacing: -25px;
 }

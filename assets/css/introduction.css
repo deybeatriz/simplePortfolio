@@ -1,11 +1,12 @@
 .introduction {
     max-width: 1200px;
-    padding: 40px;
+    padding: 0px 40px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 2fr 3fr;
     gap: 160px;
     align-items: center;
+    height: 80vh;
 }
 
 .introduction h1 {
