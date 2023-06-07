@@ -3,7 +3,7 @@
     padding: 40px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
     gap: 120px;
     align-items: center;
 }
@@ -43,6 +43,7 @@
 
 @media (max-width:800px) {
     .introduction {
+        grid-template-columns: 1fr 1fr;
         gap: 60px;
     }
 
