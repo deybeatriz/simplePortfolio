@@ -30,5 +30,13 @@
     background-color: #ee4a7854;
     margin-bottom: 20px;
     border-radius: 4px;
+    position: relative;
+}
 
+.company-year {
+    position: absolute;
+    top: 20px;
+    left: -80px;
+    color: #EA527C;
+    font-weight: bolder;
 }
