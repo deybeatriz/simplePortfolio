@@ -6,3 +6,7 @@
     grid-template-columns: 1fr 2fr;
     gap: 100px;
 }
+
+.experience .subtitle {
+    color: #EA527C;
+}
