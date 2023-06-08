@@ -1,6 +1,6 @@
 .experience {
     max-width: 1200px;
-    padding: 20px 40px;
+    padding: 20px 40px 100px 40px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: auto 1fr;
